@@ -51,7 +51,7 @@ cd (path/to/your/projects)
 
 Copy the repository URL from the green Code button on GitHub (HTTPS recommended) and run:
 
-git clone https://github.com/CUMIJ-Enterprises/CUMIJ-Official-site.git
+git clone https://github.com/CSS-COBC/CSS-cobc-website.git
 
 ### **4. Open the Project in VS Code**
 
